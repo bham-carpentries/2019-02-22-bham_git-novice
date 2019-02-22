@@ -2,6 +2,7 @@
 layout: lesson
 root: .
 ---
+This is the version taught at the [Software carpentries]() workshop beginning on Monday 18 February 2019.
 
 Wolfman and Dracula have been hired by Universal Missions (a space
 services spinoff from Euphoric State University) to investigate if it
